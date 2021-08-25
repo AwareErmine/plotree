@@ -1,4 +1,5 @@
 ### [Example site](https://plotree.aramieewen.repl.co/)
+### [Example site code](https://replit.com/@ARAMIEEWEN/plotree#src/components/Game.js)
 ### [Example server](https://replit.com/@ARAMIEEWEN/plotreeserver#main.py)
 
 ## **Plotree: a module to help manage making a choose your own adventure game**
