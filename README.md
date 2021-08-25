@@ -1,3 +1,6 @@
+### [Example site](https://plotree.aramieewen.repl.co/)
+### [Example server](https://replit.com/@ARAMIEEWEN/plotreeserver#main.py)
+
 ## **Plotree: a module to help manage making a choose your own adventure game**
 - Produces a json from the tabbing of a .txt file
     - Note: Tabbing and prefixes aren't cleaned, but you can clean with the clean_plotree method!
